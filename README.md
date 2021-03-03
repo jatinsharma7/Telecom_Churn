@@ -20,20 +20,20 @@ In this project, we will analyse customer-level data of a leading telecom firm, 
 
 ## Solution Approach
 **1. Descriptive Statistics<br>**
-**2. Data Cleaning**
+**2. Data Cleaning<br>**
     - Data Type conversion
     - Missing Value treatment
-**3. Filter High Value Customers**
-**4. Tag churned and non churned customers**
-**5. Data Pre-processing**
+**3. Filter High Value Customers<br>**
+**4. Tag churned and non churned customers<br>**
+**5. Data Pre-processing<br>**
     - Outlier Treatment
     - Multi-collinearity handling
     - Deriving new features
-**6. Exploratory Data Analysis (EDA)**
+**6. Exploratory Data Analysis (EDA)<br>**
     - Univariate Analysis
     - Bivariate Analysis
-**7. Data Standardizaion**
-**8. Modelling and Model Evaluation**
+**7. Data Standardizaion<br>**
+**8. Modelling and Model Evaluation<br>**
     - PCA
     - High Performance models with PCA
         - Logistic Regression
@@ -41,5 +41,5 @@ In this project, we will analyse customer-level data of a leading telecom firm, 
         - XG Boost
     - Interpretable models without PCA
         - Random Forest
-**9. Model Evaluation Summary**
-**10 Recommendations to prevent customer churn**
+**9. Model Evaluation Summary<br>**
+**10 Recommendations to prevent customer churn<br>**
