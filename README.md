@@ -23,16 +23,16 @@ In this project, we will analyse customer-level data of a leading telecom firm, 
 **2. Data Cleaning**
     - Data Type conversion
     - Missing Value treatment
-**3. Filter High Value Customers**<br>
-**4. Tag churned and non churned customers<br>**
+**3. Filter High Value Customers**
+**4. Tag churned and non churned customers**
 **5. Data Pre-processing**
     - Outlier Treatment
     - Multi-collinearity handling
     - Deriving new features
-**6. Exploratory Data Analysis (EDA)<br>**
+**6. Exploratory Data Analysis (EDA)**
     - Univariate Analysis
     - Bivariate Analysis
-**7. Data Standardizaion<br>**
+**7. Data Standardizaion**
 **8. Modelling and Model Evaluation**
     - PCA
     - High Performance models with PCA
@@ -41,5 +41,5 @@ In this project, we will analyse customer-level data of a leading telecom firm, 
         - XG Boost
     - Interpretable models without PCA
         - Random Forest
-**9. Model Evaluation Summary<br>**
+**9. Model Evaluation Summary**
 **10 Recommendations to prevent customer churn**
