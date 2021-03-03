@@ -40,6 +40,6 @@ In this project, we will analyse customer-level data of a leading telecom firm, 
         - Random Forest
         - XG Boost
     - Interpretable models without PCA
-        - Random Forest <br>
+        - Random Forest <br> 
 **9. Model Evaluation Summary<br>**
 **10 Recommendations to prevent customer churn<br>**
